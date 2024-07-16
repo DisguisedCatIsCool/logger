@@ -1,0 +1,18 @@
+{
+  "main": "index.js",
+  "version": "2.0",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "express-useragent": "^1.0.15",
+    "googleapis": "^118.0.0",
+    "node-fetch": "^3.2.6",
+    "request": "^2.88.2",
+    "request-ip": "^3.3.0"
+  }
+}
